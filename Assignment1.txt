@@ -21,7 +21,7 @@ MariaDB [(none)]> show databases;
 +--------------------+
 5 rows in set (0.035 sec)
 
-MariaDB [(none)]> create database Assignment_1;
+MariaDB [(none)]> create database assignment;
 Query OK, 1 row affected (0.002 sec)
 
 MariaDB [(none)]> show databases;
